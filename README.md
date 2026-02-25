@@ -1,5 +1,5 @@
 Healthcare Analytics Dashboard
-Data Visualization Project | Infosys Springboard Internship
+
 
 📌 Overview
 The Healthcare Analytics Dashboard is an interactive data visualization project developed using Python and Streamlit.
@@ -80,17 +80,6 @@ Resource allocation
 Staff planning
 Operational optimization
 Strategic decision-making
-
-
-🚀 Application Demo
-To run the project locally:
-Bash
-Copy code
-git clone https://github.com/your-username/healthcare-analytics-dashboard.git
-cd healthcare-analytics-dashboard
-pip install -r requirements.txt
-streamlit run app.py
-
 
 💡 Business Impact
 This dashboard enables hospital administrators to:
